@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   If you ever want to contact me, feel free to shoot me an email or message me on my Discord.
 baseurl: "/ravenholm/" # the subpath of your site, e.g. /blog
 url: "https://waifuhearts.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: kramdown
 twitter_username: waifu_hearts
 github_username:  WaifuHearts
 
