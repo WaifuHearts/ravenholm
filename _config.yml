@@ -32,7 +32,7 @@ twitter_username: waifu_hearts
 github_username:  WaifuHearts
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 #remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
